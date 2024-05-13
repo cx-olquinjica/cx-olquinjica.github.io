@@ -28,7 +28,9 @@ collections:
   publications:
     output: true
   portfolio: 
-  output: true 
+    output: true 
+  blog: 
+    output: true 
 
 defaults:
   - scope:

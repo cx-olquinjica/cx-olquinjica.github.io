@@ -1,5 +1,5 @@
 ---
-title: Osvaldo Quinjica
+title: 
 layout: home
 ---
 

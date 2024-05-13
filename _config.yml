@@ -23,7 +23,7 @@ plugins:
   - jekyll-sitemap
 
 collections:
-  tools:
+  talks:
     output: true
   publications:
     output: true

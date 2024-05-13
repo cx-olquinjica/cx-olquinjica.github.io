@@ -1,5 +1,5 @@
 ---
-title: Languages
+title: Publications
 description: |
     This section covers languages will you need to be familar with to build a Jekyll static site
 ---

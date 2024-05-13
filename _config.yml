@@ -12,7 +12,7 @@ rss: RSS
 ### Build settings
 
 url: https://cx-olquinjica.github.io
-baseurl: /home
+baseurl: "" 
 
 permalink: pretty
 

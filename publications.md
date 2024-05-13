@@ -5,18 +5,18 @@ description: |
 ---
 
 <ul>
-    {% for language in site.languages %}
+    {% for publication in site.publications %}
         <li>
             <h2>
-                <a href="{{ language.url | relative_url }}">
-                    {{ language.title }}
+                <a href="{{ publication.url | relative_url }}">
+                    {{ publication.title }}
                 </a>
             </h2>
 
             <p>
-                <i>{{ language.description }}</i>
+                <i>{{ publication.description }}</i>
             </p>
-            <p>{{ language.excerpt }}</p>
+            <p>{{ publication.excerpt }}</p>
         </li>
     {% endfor %}
 </ul>

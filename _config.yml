@@ -25,7 +25,7 @@ plugins:
 collections:
   tools:
     output: true
-  languages:
+  publications:
     output: true
 
 defaults:

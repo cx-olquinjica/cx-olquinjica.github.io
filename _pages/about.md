@@ -11,11 +11,11 @@ profile:
   more_info: >
      <p style="font-size: 10px;">e-mail: lastname@umd.edu</p>
      <p style="font-size: 10px;">
-      <a href="https://x.com/osvaldoquinjica?s=21">Twitter</a>
+      <a href="https://x.com/osvaldoquinjica?s=21">[twitter]</a>
       &nbsp;|&nbsp;
-      <a href="https://scholar.google.com/citations?">Google Scholar</a>
+      <a href="https://scholar.google.com/citations?">[scholar]</a>
       &nbsp;|&nbsp;
-      <a href="https://github.com/cx-olquinjica">GitHub</a>
+      <a href="https://github.com/cx-olquinjica">[github]</a>
      </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"

@@ -10,13 +10,13 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
      <p style="font-size: 2px;">e-mail: lastname@umd.edu</p>
-    <p style="font-size: 8px;">
+     <p style="font-size: 8px;">
       <a href="https://x.com/osvaldoquinjica?s=21">Twitter</a>
       &nbsp;|&nbsp;
       <a href="https://scholar.google.com/citations?">Google Scholar</a>
       &nbsp;|&nbsp;
       <a href="https://github.com/cx-olquinjica">GitHub</a>
-    </p>
+     </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

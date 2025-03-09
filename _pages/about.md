@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-     <p style="font-size: 8px;">e-mail: lastname@umd.edu</p>
-     <p style="font-size: 12px;">
+     <p style="text-align: center; font-size: 10px;">e-mail: lastname@umd.edu</p>
+     <p style="text-align: center; font-size: 10px;">
       <a href="https://x.com/osvaldoquinjica?s=21">Twitter</a>
       &nbsp;|&nbsp;
       <a href="https://scholar.google.com/citations?">Google Scholar</a>

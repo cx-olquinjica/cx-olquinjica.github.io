@@ -2,14 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Affiliations</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
+    <p>e-mail: lastname@umd.edu</p>
+    <a href="https://x.com/osvaldoquinjica?s=21">[twitter]</a>
+    <a href="https://scholar.google.com/citations?">[scholar]</a>
+    <a href="https://github.com/cx-olquinjica">[github]</a>
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
@@ -24,10 +27,10 @@ announcements:
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 3 # leave blank to include all the blog posts   
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a first year Ph.D. student in Computer Science at the [University of Maryland, College Park](https://www.cs.umd.edu/), working with [Marine Carpuat](https://www.cs.umd.edu/~marine/). My main research interests are in machine translation and multilingual language models. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 

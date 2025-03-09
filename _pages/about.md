@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-     <p style="font-size: 2px;">e-mail: lastname@umd.edu</p>
-     <p style="font-size: 8px;">
+     <p style="font-size: 8px;">e-mail: lastname@umd.edu</p>
+     <p style="font-size: 12px;">
       <a href="https://x.com/osvaldoquinjica?s=21">Twitter</a>
       &nbsp;|&nbsp;
       <a href="https://scholar.google.com/citations?">Google Scholar</a>
@@ -33,3 +33,5 @@ latest_posts:
 ---
 
 I am a first year Ph.D. student in computer science at the [University of Maryland](https://www.cs.umd.edu/), working with [Marine Carpuat](https://www.cs.umd.edu/~marine/). My main research interests are in machine translation and multilingual language models. 
+
+When I'm not immersed in code or research, you can find me find me curled up with a good book or cycling. I have a special affinity for the classics from different parts of the world, and currently, I am captivated by the profound works of Russian literature, particularly Dostoevsky.

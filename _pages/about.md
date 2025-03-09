@@ -32,6 +32,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts   
 ---
 
-I am a first year Ph.D. student in computer science at the [University of Maryland](https://www.cs.umd.edu/), working with [Marine Carpuat](https://www.cs.umd.edu/~marine/). My main research interests are in machine translation and multilingual language models. 
+I am a first year Ph.D. student in computer science at [University of Maryland](https://www.cs.umd.edu/), working with [Marine Carpuat](https://www.cs.umd.edu/~marine/). My main research interests are in machine translation and multilingual language models. 
 
 When I'm not immersed in code or research, you can find me find me curled up with a good book or cycling. I have a special affinity for the classics from different parts of the world, and currently, I am captivated by the profound works of Russian literature, particularly Dostoevsky.

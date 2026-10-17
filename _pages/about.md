@@ -36,6 +36,6 @@ I'm a PhD student at [University of Maryland--College Park](https://www.cs.umd.e
 
 My research sits at the intersection of **reinforcement learning and alignment**. My research focuses on **logical reasoning over learned concepts**, exploring how AI systems can infer, generalize, and reason about rules from learned representations. Alongside this, I study **multi-turn RL**: training agents that stay coherent and goal-oriented over long interactions, where feedback is delayed and a single misstep can compound.
 
-Beyond this, due to my love for languages I'm passionate about **multilingual AI** and making AI systems more accessible across languages.
+I also work on **multilingual AI**, with the goal of making AI systems more accessible across languages.
 
-Before my PhD, I received an M.S. in Computer Science from Beijing Institute of Technology, advised by Keke Gai, and a B.S. in Computer Science with a minor in Mathematics from Beijing University of Civil Engineering and Architecture. Along the way, I did research at the Apple AI/ML Research Lab in Beijing (summer 2022) and at the Institute of Computing Technology, Chinese Academy of Sciences (2020–2022).
+Before my PhD, I did research at the Apple AI/ML Research Lab in Beijing (summer 2022) and at the Institute of Computing Technology, Chinese Academy of Sciences (2020–2022).

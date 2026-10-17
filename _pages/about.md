@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-     <p style="font-size: 10px;">e-mail: lastname@umd.edu</p>
+     <p style="font-size: 10px;">e-mail: quinjica@umd.edu</p>
      <p style="font-size: 10px;">
       <a href="https://x.com/OsvaldoQuinjica">[twitter]</a>
       &nbsp;|&nbsp;
@@ -32,4 +32,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts   
 ---
 
-I am a first year Ph.D. student in computer science at [University of Maryland](https://www.cs.umd.edu/), working with [Marine Carpuat](https://www.cs.umd.edu/~marine/). My main research interests are in machine translation and multilingual language models. 
+I'm a PhD student at [University of Maryland--College Park](https://www.cs.umd.edu/), working on how we can build AI systems that reason reliably and act in line with what people actually want.
+
+My research sits at the intersection of **reinforcement learning and alignment**. My research focuses on **logical reasoning over learned concepts**, exploring how AI systems can infer, generalize, and reason about rules from learned representations. Alongside this, I study **multi-turn RL**: training agents that stay coherent and goal-oriented over long interactions, where feedback is delayed and a single misstep can compound.
+
+Beyond this, due to my love for languages I'm passionate about **multilingual AI** and making AI systems more accessible across languages.

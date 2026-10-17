@@ -30,7 +30,10 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-gave-a-talk-at-masakhane-on-improving-low-resource-nlp-with-embedding-initialization-presenting-our-paper-angofa",
+        },{id: "news-our-paper-angofa-received-the-best-paper-award-at-the-iclr-2024-workshop-on-low-resource-languages-africanlp",
+          title: 'Our paper AngOFA received the Best Paper Award at the ICLR 2024 Workshop...',
+          description: "",
+          section: "News",},{id: "news-gave-a-talk-at-masakhane-on-improving-low-resource-nlp-with-embedding-initialization-presenting-our-paper-angofa",
           title: 'Gave a talk at Masakhane on improving low-resource NLP with embedding initialization, presenting...',
           description: "",
           section: "News",},{id: "news-started-my-ph-d-journey-at-university-of-maryland",

@@ -11,9 +11,9 @@ profile:
   more_info: >
      <p style="font-size: 10px;">e-mail: lastname@umd.edu</p>
      <p style="font-size: 10px;">
-      <a href="https://x.com/osvaldoquinjica?s=21">[twitter]</a>
+      <a href="https://x.com/OsvaldoQuinjica">[twitter]</a>
       &nbsp;|&nbsp;
-      <a href="https://scholar.google.com/citations?">[scholar]</a>
+      <a href="https://scholar.google.com/citations?user=igXTmVwAAAAJ&hl=en">[scholar]</a>
       &nbsp;|&nbsp;
       <a href="https://github.com/cx-olquinjica">[github]</a>
      </p>

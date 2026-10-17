@@ -1,9 +1,11 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"COLM":
+  url: https://colmweb.org/
+  color: "#4a2c8a"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"AfricaNLP":
+  url: https://sites.google.com/view/africanlp2024/home
+  color: "#00796b"
 
-"Vision":
-  color: "#009f36"
+"CAMMIC":
+  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12259.toc
+  color: "#9e6a00"

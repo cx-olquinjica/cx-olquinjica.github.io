@@ -1,7 +1,2 @@
-"carpuat":
-  - firstname: ["Marine"]
-    url: https://www.cs.umd.edu/~marine/
-
-"adelani":
-  - firstname: ["David Ifeoluwa", "David", "D. I."]
-    url: https://dadelani.github.io/
+# Co-authors are listed without links (operator preference).
+{}

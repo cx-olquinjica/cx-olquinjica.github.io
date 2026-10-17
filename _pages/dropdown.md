@@ -1,5 +1,6 @@
 ---
 layout: page
+sitemap: false
 title: submenus
 nav: false
 nav_order: 8

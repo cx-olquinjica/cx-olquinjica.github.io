@@ -1,5 +1,6 @@
 ---
 layout: page
+sitemap: false
 title: research
 permalink: /projects/
 description: A growing collection of your cool projects.

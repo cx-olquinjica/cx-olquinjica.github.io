@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p style="font-size: 10px;">e-mail: quinjica@umd.edu</p>
+    <p style="font-size: 10px;">e-mail: lastname@umd.edu</p>
     <p style="font-size: 10px;">
      <a href="https://x.com/OsvaldoQuinjica">[twitter]</a>
      &nbsp;|&nbsp;

@@ -38,4 +38,4 @@ My research sits at the intersection of **reinforcement learning and alignment**
 
 I also work on **multilingual AI**, with the goal of making AI systems more accessible across languages.
 
-Before my PhD, I did research at Apple, AIML Research Lab in Beijing, and at the Institute of Computing Technology, Chinese Academy of Sciences.
+Before my PhD, I did research at Apple in Beijing, and at the Institute of Computing Technology, Chinese Academy of Sciences.
